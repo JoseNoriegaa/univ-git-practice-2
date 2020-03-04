@@ -3,3 +3,5 @@ Hola GIT!
 Mi segundo cambio
 
 Tercer cambio.
+
+Cambio intermedio (se irá a stash)
